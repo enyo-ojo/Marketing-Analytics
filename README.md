@@ -28,4 +28,4 @@ The store had declining conversion rates, unclear marketing ROI, and lacked sent
 ## 🔗 Dashboard  
 [View Power BI Dashboard](https://leomailtamuc-my.sharepoint.com/:u:/g/personal/ealabi1_leomail_tamuc_edu/ETKT7n-ibo1MtsY8hTpte7kBcbv8JPQNH52A9nFyI_Z1PA?e=c6aCjV)
 
-  [Marketing Analytics Dashboard for Ecommerce Store pdf - Google Chrome 3_5_2025 12_19_26 PM](https://github.com/user-attachments/assets/4ca63f7f-40fe-4d71-bbe3-7640baef222e)
+  ![Marketing Analytics Dashboard for Ecommerce Store pdf - Google Chrome 3_5_2025 12_19_26 PM](https://github.com/user-attachments/assets/4ca63f7f-40fe-4d71-bbe3-7640baef222e)
